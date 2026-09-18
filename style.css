@@ -1,0 +1,210 @@
+body {
+    background-color: rgb(28, 28, 74);
+    background-image: url(https://images.stockcake.com/public/7/1/5/715792b3-70f1-4fec-a71a-aa06dec38290/coastal-road-sunset-stockcake.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.a {
+    margin-top: 150px;
+    font-family: "Anton", sans-serif;
+    color: transparent;
+    -webkit-text-stroke: 0.5px white;
+}
+
+.ab {
+    margin-top: 150px;
+    font-family: "Anton", sans-serif;
+    color: white;
+}
+.row {
+    color: white;
+}
+
+.sl {
+    margin-top: 30px;
+    height: 80px;
+    background-color: white;
+    color: black;
+    padding-top: 15px;
+}
+
+.col-md-1 {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.sr {
+    background-color: white;
+    color: black;
+    height: 700px;
+}
+
+.title {
+    font-size: 40px;
+    margin-top: 100px;
+}
+
+.sc {
+    font-size: 14px;
+    width: 270px;
+}
+
+.bb {
+    width: 250px;
+    height: 245px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.ss {
+    background-color: orange;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    white-space: nowrap;
+    min-width: 120px;
+    margin-left: -50px;
+}
+
+.col-botao {
+    position: relative;
+    overflow: visible !important;
+}
+
+.slc {
+        margin-top: 30px;
+    height: 80px;
+    background-color: white;
+    color: black;
+}
+
+.sll {
+    position: relative;
+    left: 20px;
+}
+
+.ps {
+    padding-left: 105px !important;
+    padding-top: 30px;
+}
+
+.pnn {
+background-color: orange;
+color: white;
+border-radius: 3px;
+margin-top: -80px !important;
+}
+
+.new {
+background-color: #de9006;
+background-image: url(file:///F:/Curso/pw2026/Projeto%20M%C3%A1rcio/depositphotos_200050318-stock-photo-unusual-illustration-tropical-island-palm.jpg);
+background-repeat: no-repeat;
+background-position: right center;
+}
+
+.psc {
+    padding-top: 30px;
+    color: black;
+}
+
+.jj {
+  background: linear-gradient(to bottom, #F7E24E, #EDC601);
+  
+  position: relative;
+  min-height: 400px;
+  overflow: hidden;
+}
+
+.jj::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  height: 100%;
+  
+  background: url('https://img.freepik.com/premium-photo/tropic-holiday-concept-view-photo-orange-suitcase-with-straw-hat-sunglasses-it-with-palm-leaves-isolated-bright-yellow-background-with-copyspace_352249-11027.jpg') no-repeat center right;
+  background-size: cover;
+
+  /* 3. A MÁGICA: Transparência gradual da esquerda para a direita */
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 40%);
+  mask-image: linear-gradient(to right, transparent 0%, black 40%);
+  
+  z-index: 1;
+}
+
+.jj * {
+  position: relative;
+  z-index: 2;
+}
+
+.psjj {
+    padding-left: 170px !important;
+    padding-top: 30px
+}
+
+.preto {
+    color: black;
+    font-size: 13px;
+}
+
+.botao {
+    color: black;
+    background-color: white;
+    font-size: 15px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.aas {
+    background-image: url("84a741da-3733-43a9-9adb-aa864f5ed7f8.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+p {
+    font-size: 12px;
+}
+
+figure {
+width: 40px;
+height: 72px;
+margin-right: 15px;
+margin-bottom: 16px;
+}
+
+.ass {
+    background-color: white;
+}
+
+.abc {
+    border-radius: 10px;
+}
+
+.conteudo {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    left: 0;
+    display: grid;
+    align-content: center;
+    z-index: 3;
+}
+
+.aaa {
+    background-color: rgb(201, 201, 201);
+}
+
+.asd {
+background-image: url(https://www.tudodeviagem.com/wp-content/uploads/2020/01/viajante.jpg.webp);
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+.asa {
+    background-color: rgb(12, 12, 40);
+}
